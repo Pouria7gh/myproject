@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 slm khobi?
+=======
+slmasd
+>>>>>>> file2-bug-fix
